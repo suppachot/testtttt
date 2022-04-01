@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 //        datas.add(new DataModel(4, "เครื่องสำรองไฟ 500W", "อุปกรณ์สำรองไฟขนาด 500 W", "pic6.jpg"));
 
 //        String url = "http://web.com/android/json/browse.php";
-        String url = "http://itpart.com/android/json/test5records.php";
+        String url = "http://itpart.com/android/json/test8records.php";
 
         pDialog = new ProgressDialog(this);
         pDialog.setMessage("Loading..");
